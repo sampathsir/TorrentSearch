@@ -17,9 +17,10 @@
             "description": "Bot token, get it from @BotFather.",
             "value": ""
         },
-        "": {
-            "description": "You API HASH from my.telegram.org",
+        "TOR_KEY": {
+            "description": "You  HASH from @Tor_Key_Bot",
             "value": ""
+        }
     },
     "buildpacks": [
         {
